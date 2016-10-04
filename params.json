@@ -1,6 +1,6 @@
 {
   "name": "OpenMP Floyd Warshall",
   "tagline": "Easy Implementation of Floyd Warshall in parallel execution using OpenMP",
-  "body": "# OpenMP Floyd Warshall\r\nEasy Implementation of Floyd Warshall in parallel execution using OpenMP\r\n\r\n# Usage\r\nYou can find the Source.cpp file inside Floyd_Warshall/ folder\r\n\r\nIn Visual Studio, remember to enable OpenMP in C/C++ - Languages - Use OpenMP and set yes(/openmp)\r\n\r\n# About Solution\r\n\r\nI used IDE Visual Studio 2013 Community\r\n",
+  "body": "# OpenMP Floyd Warshall\r\nEasy Implementation of Floyd Warshall in parallel execution using OpenMP\r\n\r\n# Usage\r\nYou can find the Source.cpp file inside Floyd_Warshall/ folder\r\n\r\nIn Visual Studio, remember to enable OpenMP in C/C++ - Languages - Use OpenMP and set yes(/openmp)\r\n\r\n# About Solution\r\nI used IDE Visual Studio 2013 Community\r\n\r\n# Reference\r\nhttp://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
